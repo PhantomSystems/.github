@@ -1,6 +1,11 @@
+<h1 align="center"> Welcome to the home of Astrobot </h1>
+
+Astrobot is a discord bot created and developed by PhantomSystems. Astro has a goal, a goal of becoming the biggest, the best, and the most feature complete discord bot out there.
+
+<div align="center">
 
 [![Alt text](https://inv.wtf/widget/awfixerandfriends)](https://discord.awfixer.com)
 
-this is the home of the astrobot team. The grand majority of the bot is not open source, though we will be opening up some of the repos under an MIT License as time goes on. we also maintain and even are working on new discord api libraries to solve some of the issues that we are having when it comes to our goals with the bot.
+©️ 2025 PhantomSystems :tm: , a division of AWFixer and Friends :tm: . All rights reserved.
 
-we will update this readme as time goes on
+</div>
